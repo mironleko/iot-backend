@@ -10,7 +10,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class DataDto {
-
+    private String deviceId;
     private Double latitude;
 
     private Double longitude;
