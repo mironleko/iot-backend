@@ -14,6 +14,8 @@ public class DataDto {
     private Double latitude;
 
     private Double longitude;
+    private String temp;
+    private String pressure;
 
     private Integer num_people;
 
